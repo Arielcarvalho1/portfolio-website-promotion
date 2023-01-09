@@ -27,7 +27,7 @@ const Form = () => {
             <div className="ml-form-embedWrapper embedForm">
             <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">
                 <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
-                <form className="ml-block-form" action="https://static.mailerlite.com/webforms/submit/h4u1n5" data-code="h4u1n5" method="post" target="_blank">
+                <form className="ml-block-form" action="#" data-code="h4u1n5" method="post" target="_blank">
                 <div className="ml-form-formContent">
                     <div className="ml-form-fieldRow">
                     <div className="ml-field-group ml-field-name">
