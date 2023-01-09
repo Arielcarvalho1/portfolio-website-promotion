@@ -4,7 +4,7 @@ const Form = () => {
     return (
      <div className="mt-28 mx-auto md:w-1/2 px-5">
         <h3 className="text-center text-3xl font-bold"> 
-        Don't bother filling this in. The form doesn't work!</h3>
+        Don&rsquo;t bother filling this in. The form doesn&rsquo;t work!</h3>
         {/*<form className="flex flex-col justify-center items-center gap-4 mt-8">
             <div>
                 <label className="font-medium text-sm">Name: </label>
