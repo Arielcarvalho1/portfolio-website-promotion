@@ -6,6 +6,7 @@ import Header from '../components/Header'
 import Testemunhos from '../components/Testemunhos'
 import Top from '../components/Top'
 import Script from 'next/script'
+import Footer from '../components/Footer'
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
         <Form></Form>
         <Testemunhos></Testemunhos>
       </main>
+        <Footer />
     </div>
   )
 }
